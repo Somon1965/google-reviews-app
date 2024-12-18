@@ -1,4 +1,4 @@
-﻿const axios = require('axios');
+const axios = require('axios');
 
 module.exports = async (req, res) => {
     const API_KEY = 'AIzaSyB5bNeXwCJaBfTbiM4wVdZiso3Escxn4-4'; // Google APIキーをここに入力
